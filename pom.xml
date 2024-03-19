@@ -95,6 +95,14 @@
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
         </repository>
+        <repository>
+            <id>ender.zone</id>
+            <url>https://ci.ender.zone/plugin/repository/everything/</url>
+        </repository>
+        <repository>
+            <id>wdsj-io</id>
+            <url>https://repo.wdsj.io/repository/minecraft/</url>
+        </repository>
     </repositories>
 
     <dependencies>
